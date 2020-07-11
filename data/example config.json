@@ -1,0 +1,1 @@
+{"token": "no", "pg": {"user": "the user account", "password": "sql pass", "database": "the database name", "host": "127.0.0.1"}, "api": {"dbots": "api key", "dbl": "api key 2"}}
